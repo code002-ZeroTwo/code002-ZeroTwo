@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @code002-ZeroTwo
+- 👀 I’m interested in web development and machine learning
+- 🌱 I’m currently learning web development
+- 📫 How to reach me (gmail -- siddharthpaudel41@gmail.com)
